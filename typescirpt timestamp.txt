@@ -1,0 +1,35 @@
+⌨️ (0:00:00) Why to learn TypeScript
+⌨️ (0:07:08) TypeScript is not what you think
+⌨️ (0:15:25) How to install TypeScript
+⌨️ (0:27:33) Your first intro to TypeScript docs
+⌨️ (0:39:21) Number, boolean, and type inference
+⌨️ (0:39:21) Number, boolean, and type inference
+⌨️ (0:46:52) Don't use ANY
+⌨️ (0:51:30) Do you really know functions
+⌨️ (1:02:55) A better way to write function // done. 
+⌨️ (1:15:38) Bad behavior of objects
+⌨️ (1:25:14) Type Aliases // done.
+⌨️ (1:32:28) READONLY and optional // done
+⌨️ (1:42:13) Array // done.
+⌨️ (1:50:03) Union Types in TS // done.
+⌨️ (2:04:46) Tuples //done.  
+⌨️ (2:14:33) Enums //done. 
+⌨️ (2:24:03) interface // done
+⌨️ (2:33:52) Interface vs Type // done
+⌨️ (2:39:08) How to setup Typescript for real projects //done
+⌨️ (2:53:44) Classes//done
+⌨️ (3:02:06) Private Public // done
+⌨️ (3:08:12) Getters and Setters // done
+⌨️ (3:15:25) Protected // done
+⌨️ (3:19:34) Why Interface is important //done
+⌨️ (3:26:05) Abstract class
+⌨️ (3:35:36) Generics //done
+⌨️ (3:47:58) Generics in Array and Arrow functions // done
+⌨️ (3:56:07) Generic Classes //done.
+⌨️ (4:07:16) Type Narrowing
+⌨️ (4:17:04) The in operator narrowing //
+⌨️ (4:22:17) Instanceof and Type Predicates //
+⌨️ (4:31:35) Discriminated Union and Exhaustiveness Checking with never
+⌨️ (4:42:54) TypeScript End
+
+done 26-FEb-24.
